@@ -10,7 +10,7 @@ f.close()
 
 def search():
   word=input("鬼滅の登場人物を入力してください>>>")
-  # for word in source:
+  
   if word in reader:
       print("{}が見つかりました".format(word))
   else:
