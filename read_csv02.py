@@ -26,5 +26,4 @@ def search() :
       # text.append(word)
         print("{}を追加しました".format(word))
 
-    # if __name__=="__main__":
 search()
